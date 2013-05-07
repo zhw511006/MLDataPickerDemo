@@ -2,7 +2,7 @@ What is MLDataPicker?
 ---
 It's a data picker base on ActionSheet for iPhone.
 
-[<img src="https://fgfarq.bn1.livefilestore.com/y2p7JPiYEAjuC4jLoZ6L7CqPoZp4l_MWA8FOkZvzjVyfQRSofAIITaQXRm5h3ywh8jss_Vui_N0eknxs-OeoZKaMNFSLQDagh3yvzLP3cNFIlZoIa24SXcPnmCKdkbBwGb5/MLDataPicker.png?psid=1" />]
+<img src="https://fgfarq.bn1.livefilestore.com/y2p7JPiYEAjuC4jLoZ6L7CqPoZp4l_MWA8FOkZvzjVyfQRSofAIITaQXRm5h3ywh8jss_Vui_N0eknxs-OeoZKaMNFSLQDagh3yvzLP3cNFIlZoIa24SXcPnmCKdkbBwGb5/MLDataPicker.png?psid=1" />
 
 ARC
 ---
