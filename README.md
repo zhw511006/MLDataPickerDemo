@@ -2,6 +2,8 @@ What is MLDataPicker?
 ---
 It's a data picker base on ActionSheet for iPhone.
 
+[<img src="http://sdrv.ms/YrFj0a" />]
+
 ARC
 ---
 Fully ARC compatible now
